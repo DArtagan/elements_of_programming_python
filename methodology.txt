@@ -1,0 +1,5 @@
+1. Clarify the problem.  Ask for the input format.  Any constraints?
+2. Set up a few hypothetical test cases with some slices of the data.
+3. Develop a brute force algorithm.
+4. Note the time complexity.
+5. Optimize.  What design patterns can be applied?
